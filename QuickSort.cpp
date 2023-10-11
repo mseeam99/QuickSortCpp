@@ -55,3 +55,12 @@ int main(){
     cout<<endl;
     cout<<"Program Ends ....."<<endl;
 }
+
+/*
+Program Starts .....
+Before using Quick Sort: 
+8 50 24 9 31 23 45 29 24 10 41 16 43 43 
+After using Quick Sort: 
+8 9 10 16 23 24 24 29 31 38 41 43 43 45 
+Program Ends .....
+*/
